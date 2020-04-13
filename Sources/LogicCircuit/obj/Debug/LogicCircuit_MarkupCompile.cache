@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\CSIL\logiccircuit\Sources\LogicCircuit\obj\Debug\
+C:\CSIL\LogicCircuit\Sources\LogicCircuit\obj\Debug\
 LogicCircuit
 none
 false
 DEBUG;TRACE
-C:\CSIL\logiccircuit\Sources\LogicCircuit\App.xaml
+C:\CSIL\LogicCircuit\Sources\LogicCircuit\App.xaml
 1051333766069
 
 228-919176294
-15377378982
+15-2119509354
 ColorPicker\ColorPicker.xaml;Dialog\ControlMemoryEditor.xaml;Dialog\ControlPinOrder.xaml;Dialog\DialogAbout.xaml;Dialog\DialogButton.xaml;Dialog\DialogCircuit.xaml;Dialog\DialogConstant.xaml;Dialog\DialogExportImage.xaml;Dialog\DialogFind.xaml;Dialog\DialogGraphicsArray.xaml;Dialog\DialogHyperlink.xaml;Dialog\DialogImport.xaml;Dialog\DialogLedMatrix.xaml;Dialog\DialogMemory.xaml;Dialog\DialogMemoryEditor.xaml;Dialog\DialogMessage.xaml;Dialog\DialogOptions.xaml;Dialog\DialogOscilloscope.xaml;Dialog\DialogPin.xaml;Dialog\DialogProbe.xaml;Dialog\DialogProbeHistory.xaml;Dialog\DialogProject.xaml;Dialog\DialogReport.xaml;Dialog\DialogSensor.xaml;Dialog\DialogSound.xaml;Dialog\DialogText.xaml;Dialog\DialogTruthTable.xaml;Dialog\DialogUsage.xaml;Dialog\IronPythonConsole.xaml;Editor\WireDisplayControl.xaml;Mainframe.xaml;Icon\CircuitPower.xaml;Icon\Color.xaml;Icon\ColorFont.xaml;Icon\ColorHiglight.xaml;Icon\Error.xaml;Icon\Info.xaml;Icon\Question.xaml;Icon\Warning.xaml;Icon\CircuitNew.xaml;Icon\CircuitProjectProperty.xaml;Icon\CircuitProperty.xaml;Icon\CircuitPulse.xaml;Icon\CircuitReport.xaml;Icon\CircuitSearch.xaml;Icon\CircuitTable.xaml;Icon\CircuitUsedBy.xaml;Icon\EditBulletList.xaml;Icon\EditCopy.xaml;Icon\EditCut.xaml;Icon\EditDecreaseFontSize.xaml;Icon\EditIncreaseFontSize.xaml;Icon\EditJustify.xaml;Icon\EditLeftJustify.xaml;Icon\EditOrderedList.xaml;Icon\EditPaste.xaml;Icon\EditRedo.xaml;Icon\EditRightJustify.xaml;Icon\EditRotateLeft.xaml;Icon\EditRotateRight.xaml;Icon\EditSelectAll.xaml;Icon\EditTextCenter.xaml;Icon\EditTextIndent.xaml;Icon\EditTextOutdent.xaml;Icon\EditUndo.xaml;Icon\F1Help.xaml;Icon\FileClose.xaml;Icon\FileExportImage.xaml;Icon\FileImport.xaml;Icon\FileNew.xaml;Icon\FileOpen.xaml;Icon\FileSaveAs.xaml;Icon\FileSave.xaml;Icon\Hyperlink.xaml;Icon\Image.xaml;Icon\PythonConsole.xaml;Icon\ToolsOptions.xaml;SymbolShapes\Button.xaml;SymbolShapes\Clock.xaml;SymbolShapes\Constant.xaml;SymbolShapes\DisplayBackground.xaml;SymbolShapes\DisplayBorder.xaml;SymbolShapes\GraphicsArray.xaml;SymbolShapes\Led.xaml;SymbolShapes\LedMatrix.xaml;SymbolShapes\LedMatrixRectCell.xaml;SymbolShapes\LedMatrixRoundCell.xaml;SymbolShapes\MarkerLine.xaml;SymbolShapes\MarkerRectangle.xaml;SymbolShapes\Pin.xaml;SymbolShapes\Probe.xaml;SymbolShapes\Rectangular.xaml;SymbolShapes\SensorAuto.xaml;SymbolShapes\SensorManual.xaml;SymbolShapes\SevenSegment.xaml;SymbolShapes\ShapedAnd.xaml;SymbolShapes\ShapedNot.xaml;SymbolShapes\ShapedOr.xaml;SymbolShapes\ShapedTriState1.xaml;SymbolShapes\ShapedTriState2.xaml;SymbolShapes\ShapedXor.xaml;SymbolShapes\Sound.xaml;SymbolShapes\Splitter.xaml;SymbolShapes\TextNote.xaml;SymbolShapes\ToggleLed.xaml;
 
 False

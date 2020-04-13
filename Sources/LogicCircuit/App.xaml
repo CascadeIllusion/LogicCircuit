@@ -72,8 +72,20 @@
 			<SolidColorBrush x:Key="OscilloscopeBackground" Color="Black" PresentationOptions:Freeze="True"/>
 			<SolidColorBrush x:Key="OscilloscopeText" Color="#FF7F7F7F" PresentationOptions:Freeze="True"/>
 			<SolidColorBrush x:Key="OscilloscopeLine" Color="#FF02FD02" PresentationOptions:Freeze="True"/>
+            
+            <!-- Truth value colorations -->
 
-			<LinearGradientBrush x:Key="ConstantBackground" StartPoint="0,0" EndPoint="1,1" PresentationOptions:Freeze="True">
+            <LinearGradientBrush x:Key="TrueBackground" StartPoint="0,0" EndPoint="1,1" PresentationOptions:Freeze="True">
+                <GradientStop Color="#FF00FF46" Offset="0"/>
+                <GradientStop Color="#FF008324" Offset="1"/>
+            </LinearGradientBrush>
+
+            <LinearGradientBrush x:Key="FalseBackground" StartPoint="0,0" EndPoint="1,1" PresentationOptions:Freeze="True">
+                <GradientStop Color="Red" Offset="0"/>
+                <GradientStop Color="#FFB40000" Offset="1"/>
+            </LinearGradientBrush>
+
+            <LinearGradientBrush x:Key="ConstantBackground" StartPoint="0,0" EndPoint="1,1" PresentationOptions:Freeze="True">
 				<GradientStop Color="#FFCFDCDC" Offset="0"/>
 				<GradientStop Color="#FF9BB7B7" Offset="1"/>
 			</LinearGradientBrush>
