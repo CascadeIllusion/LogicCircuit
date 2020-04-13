@@ -1,0 +1,7 @@
+C:\CSIL\logiccircuit\Sources\Tools\ExportResx\bin\Debug\ExportResx.exe.config
+C:\CSIL\logiccircuit\Sources\Tools\ExportResx\bin\Debug\ExportResx.exe
+C:\CSIL\logiccircuit\Sources\Tools\ExportResx\bin\Debug\ExportResx.pdb
+C:\CSIL\logiccircuit\Sources\Tools\ExportResx\obj\Debug\ExportResx.csproj.CoreCompileInputs.cache
+C:\CSIL\logiccircuit\Sources\Tools\ExportResx\obj\Debug\ExportResx.exe
+C:\CSIL\logiccircuit\Sources\Tools\ExportResx\obj\Debug\ExportResx.pdb
+C:\CSIL\logiccircuit\Sources\Tools\ExportResx\obj\Debug\ExportResx.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\CSIL\logiccircuit\Sources\Tools\ResourceWrapper.Generator\bin\Debug\ResourceWrapper.Generator.exe
+C:\CSIL\logiccircuit\Sources\Tools\ResourceWrapper.Generator\bin\Debug\ResourceWrapper.Generator.pdb
+C:\CSIL\logiccircuit\Sources\Tools\ResourceWrapper.Generator\obj\Debug\ResourceWrapper.Generator.csproj.CoreCompileInputs.cache
+C:\CSIL\logiccircuit\Sources\Tools\ResourceWrapper.Generator\obj\Debug\ResourceWrapper.Generator.exe
+C:\CSIL\logiccircuit\Sources\Tools\ResourceWrapper.Generator\obj\Debug\ResourceWrapper.Generator.pdb
+C:\CSIL\logiccircuit\Sources\Tools\ResourceWrapper.Generator\obj\Debug\ResourceWrapper.Generator.csprojAssemblyReference.cache
